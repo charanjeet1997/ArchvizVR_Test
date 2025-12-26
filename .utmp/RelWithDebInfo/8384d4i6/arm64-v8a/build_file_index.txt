@@ -1,0 +1,2 @@
+E:\Projects\UnityVRProjects\ArchvizVR_URP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\Projects\UnityVRProjects\ArchvizVR_URP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

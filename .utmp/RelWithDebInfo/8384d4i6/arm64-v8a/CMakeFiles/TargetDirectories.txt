@@ -1,0 +1,5 @@
+E:/Projects/UnityVRProjects/ArchvizVR_URP/.utmp/RelWithDebInfo/8384d4i6/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Projects/UnityVRProjects/ArchvizVR_URP/.utmp/RelWithDebInfo/8384d4i6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Projects/UnityVRProjects/ArchvizVR_URP/.utmp/RelWithDebInfo/8384d4i6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/Projects/UnityVRProjects/ArchvizVR_URP/.utmp/RelWithDebInfo/8384d4i6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/Projects/UnityVRProjects/ArchvizVR_URP/.utmp/RelWithDebInfo/8384d4i6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
